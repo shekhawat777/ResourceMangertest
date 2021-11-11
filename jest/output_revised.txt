@@ -1,1 +1,3 @@
 newprojectBusinessShouldAddNewProject=true
+newemployeeBusinessShouldAddNewEmployee=true
+newitemBusinessShouldAddNewItem=true

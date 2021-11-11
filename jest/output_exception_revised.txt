@@ -1,4 +1,4 @@
 employeeExceptionShouldBeCheckEmployeelistApi=true
 allocationExceptionShouldBeCheckAllocationlistApi=true
-itemExceptionShouldBeCheckItemlistApi=true
 projectExceptionShouldBeCheckProjectlistApi=true
+itemExceptionShouldBeCheckItemlistApi=true
